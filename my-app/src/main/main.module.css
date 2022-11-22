@@ -1,0 +1,80 @@
+.Contain{
+    width: 90%;
+    margin: auto;
+}
+.Slider{
+    width: 20%;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: beige;
+}
+.Labler{
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+}
+.openDiv{
+    display: flex;
+    flex-direction: column;
+}
+.closeDiv{
+    display: none;
+}
+.Lablein{
+    display: flex;
+    width: 70%;
+    
+    align-items: center;
+    /* justify-content: space-between; */
+    margin-left: 10px;
+}
+.fiLe{
+    display: flex;
+    align-items: center;
+}
+.Ptag{
+    margin-left: 10px;
+}
+.folDer{
+    margin-left: 10px;
+}
+.opendDiv{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.closedDiv{
+    display: none;
+}
+.envDiv{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.docDiv{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.labsDiv{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.useDiv{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.tempDiv{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.stacDiv{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
